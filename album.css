@@ -1,0 +1,86 @@
+.container {
+    background-color: rgb(175, 225, 238);
+    width: 1340px;
+    height: 1000px;
+}
+
+.top {
+    width: 1340px;
+    height: 200px;
+    background-color: rgb(240, 167, 72);
+    text-align: center;
+}
+
+.top1 {
+    width: 500px;
+    height: 120px;
+    background-color: rgb(245, 197, 133);
+    position: relative;
+    float: left;
+    left: 5%;
+    margin-top: 3%;
+    border-radius: 10px;
+}
+
+.top2 {
+    position: relative;
+    float: left;
+    left: 5%;
+    margin-top: 5%;
+
+}
+
+
+.p1 {
+    position: relative;
+    float: left;
+    left: 7%;
+    margin-top: 5%;
+    color: rgb(133, 127, 127);
+}
+
+.firsth1 {
+    position: relative;
+    float: right;
+    right: 45%;
+    margin-top: 12%;
+    color: rgb(61, 59, 59);
+}
+
+.middle {
+    position: relative;
+    float: left;
+    left: 3%;
+    width: 1250px;
+    height: 80px;
+    background-color: rgb(29, 28, 28);
+    border-radius: 20px;
+}
+
+.mybutton {
+    width: 1250px;
+    position: relative;
+    float: left;
+    left: 2%;
+    margin-top: 2%;
+}
+
+.size {
+    width: 150px;
+    height: 30px;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 5%;
+    color: rgb(187, 175, 175);
+    background-color: rgb(29, 28, 28);
+    border-color: rgb(85, 83, 83);
+    border-radius: 8px;
+
+}
+
+.main{
+    width: 1340px;
+    height: 1000px;
+    background-color: rgb(180, 220, 252);
+}
+

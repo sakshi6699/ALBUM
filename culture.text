@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>CULTURE</title>
+        <link rel="stylesheet" href="album.css">
+    </head>
+    <body bgcolor="skyblue">
+        <br>
+        <center><i><h1>CULTURE</h1></i></center>
+       <img src="img/l.jpg" width="400" height="200">
+       <img src="img/l1.jpg" width="400" height="200">
+       <img src="img/l2.jpg" width="400" height="200">
+       <img src="img/l3.jpg" width="400" height="200">
+       <img src="img/l4.jpg" width="400" height="200">
+      
+    </body>
+</html>

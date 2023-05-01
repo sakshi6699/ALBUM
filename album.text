@@ -1,0 +1,36 @@
+<html>
+
+<head>
+  <title>photo-album</title>
+  <link rel="stylesheet" href="album.css">
+</head>
+
+<body>
+
+  <div class="container">
+
+    <div class="top">
+      <div class="top1">
+        <nav class="top2">
+          <a href="home.html">Home</a>
+        </nav>
+        <p class="p1">/ Gallery</p>
+        <h1 class="firsth1">TMU GALLERY</h1>
+      </div>
+    </div>
+    <div class="main">
+      <br><br><br>
+      <div class="middle">
+        <div class="mybutton">
+          <button type="button" class="size"><a href="academic.html">Academic</a></button>
+          <button type="button" class="size"><a href="convocation.html">Convocation</a></button>
+          <button type="button" class="size"><a href="campus.html">Campus</a></button>
+          <button type="button" class="size"><a href="culture.html">Culture</a></button>
+          <button type="button" class="size"><a href="sports.html">Sports</a></button>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

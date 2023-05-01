@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>sports</title>
+        <link rel="stylesheet" href="album.css">
+    </head>
+    <body bgcolor="skyblue">
+        <br>
+        <center><i><h1>Sports</h1></i></center>
+       <img src="img/s.jpg" width="400" height="200">
+       <img src="img/s1.jpg" width="400" height="200">
+       <img src="img/s2.jpg" width="400" height="200">
+       <img src="img/s3.jpg" width="400" height="200">
+       <img src="img/s4.jpg" width="400" height="200">
+       <img src="img/s5.jpg" width="400" height="200">
+       <img src="img/s6.jpg" width="400" height="200">
+
+    </body>
+</html>
